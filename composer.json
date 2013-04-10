@@ -1,0 +1,14 @@
+{
+    "name": "neuralys/markdown",
+    "description": "Markdown single class to work with Phing and Packagist",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nicolas BELIN",
+            "email": "nico@neuralys.com"
+        }
+    ],
+    "require": {
+
+    }
+}
